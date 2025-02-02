@@ -18,3 +18,8 @@ The log transform make data lost there differnces.
 When applied with normalization for visualization, the middle part squazed even more.
 
 ![image](https://github.com/user-attachments/assets/2dbf050c-7572-437a-8db0-ca21dfc1b48f)
+
+
+Resulting most data are not showing the differences:
+
+![image](https://github.com/user-attachments/assets/c53bc338-8a74-4eb1-b265-aff2886cc0e9)
