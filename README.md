@@ -1,8 +1,8 @@
 # Trademe
 
-The property data collected from Trademe API. 
+Property Price Heatmap for New Zealand properties in 2023.
 
-Data Engineering:
 
-EDX:
-![image](https://github.com/user-attachments/assets/36727298-836d-49af-8960-5c41ea0b92ed)
+
+![image](https://github.com/user-attachments/assets/4c913042-cea9-44b5-adb6-d2f710b32759)
+
