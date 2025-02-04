@@ -3,8 +3,8 @@
 Property Price Heatmap for New Zealand properties in 2023.
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/4294f53a-c032-4aae-8eab-dc81bfad5ecb" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4294f53a-c032-4aae-8eab-dc81bfad5ecb" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4294f53a-c032-4aae-8eab-dc81bfad5ecb" width="50%" />
+  <img src="https://github.com/user-attachments/assets/4294f53a-c032-4aae-8eab-dc81bfad5ecb" width="50%" />
 </div>
 
 
