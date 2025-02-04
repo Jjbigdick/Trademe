@@ -4,6 +4,7 @@ Property Price Heatmap for New Zealand properties in 2023.
 
 ![image](https://github.com/user-attachments/assets/9111e88f-c250-4224-8093-bb8a7e1334f4)
 
+**Geospatial Price Analysis**
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <!-- Suburb Row -->
@@ -19,7 +20,6 @@ Property Price Heatmap for New Zealand properties in 2023.
   </div>
 
 </div>
-
-<span>Individual</span>
+  <span>Individual</span>
 
 ![image](https://github.com/user-attachments/assets/e5f964b9-e5d2-4ffc-9144-f389f6a73844))
