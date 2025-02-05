@@ -23,3 +23,6 @@ Property Price Heatmap for New Zealand properties in 2023.
   <span>Individual</span>
 
 ![image](https://github.com/user-attachments/assets/e5f964b9-e5d2-4ffc-9144-f389f6a73844))
+
+<span>Price correlations with statics data (cipped)</span>
+![image](https://github.com/user-attachments/assets/43b90bc5-1cb4-4e8e-b6e9-14e038fb17f2)
